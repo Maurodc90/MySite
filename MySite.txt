@@ -1,0 +1,12 @@
+Il mio sito personale avrà differenti pagine.
+
+- main page (biografia pagina statica nome cognome con loghi dei programmi da me conosciuti)
+-cotact (email, Facebook, instagram, twitter, GitHub, linked-in)
+-portfolio (progetti online)
+-funny thing (fotografie scattate da me)
+
+-Main Page
+(Background picture of my Mac vscode ed extra)
+Navbar 
+H1 Mauro Castrese Del Core
+P   Hey there I'm a web developer (in training) and coding passionate
